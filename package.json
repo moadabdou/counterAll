@@ -1,0 +1,22 @@
+{
+  "name": "counterAll",
+  "version": "1.0.0",
+  "description": "a javascript counter  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter",
+    "counter_all",
+    "counterAll",
+    "increase",
+    "decrease",
+    "number"
+  ],"repository": {
+		"type": "git",
+		"url": "https://github.com/moadabdou/counterAll.git"
+	},
+  "author": "moad adbou",
+  "license": "MIT"
+}
